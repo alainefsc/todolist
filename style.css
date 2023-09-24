@@ -47,3 +47,11 @@ body {
    
   }
   
+  footer{
+    background-color: #da2695;
+    font-style: oblique;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 10px;
+  }
+  
