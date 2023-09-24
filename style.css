@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(245, 196, 234);
+    background-image: url('imagens/cats.gif');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+  }
+  
+  .todo-container {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  button {
+    background-color: #da2695;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius:35% ;
+  }
+  
+  button:hover {
+    background-color: #da2626;
+  }
+
+  h1 {
+    background-color: #da2695;
+    font-style: oblique;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+  }
+  
